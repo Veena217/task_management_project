@@ -1,0 +1,6 @@
+Flask==2.0.3
+mysql-connector-python==8.0.26
+
+
+
+#mysql -u vjit -p -h 161.97.186.196
