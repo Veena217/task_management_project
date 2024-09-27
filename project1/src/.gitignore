@@ -1,29 +1,9 @@
-# Python
+# Python cache files
 __pycache__/
-*.py[cod]
-*.pyo
-*.pyd
+*.pyc
 
-# Virtual Environment
-venv/
-.venv/
-env/
-.env/
+# Virtual environment
+.myenv/
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
-
-# Logs
-*.log
-
-# SQLite database
-*.db
-
-# Configuration files
-.env
-.DS_Store
-Thumbs.db
-
-# VS Code settings
-.vscode/
-
